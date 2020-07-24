@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task1.Chef">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAgAAAAAAAAAAIAAAACAA=</HashCode>
+      <FileName>Chef.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1.DessertChef" Collapsed="true">
+    <Position X="10.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DessertChef.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1.Dish" Collapsed="true">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Dish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1.Kitchen">
+    <Position X="10.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAIAAGAAAAAAAAAAAAAAAAAAAAAQCA=</HashCode>
+      <FileName>Kitchen.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="chef1" />
+      <Field Name="chef2" />
+      <Field Name="chef3" />
+      <Field Name="chef4" />
+      <Field Name="chef5" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Task1.MeatChef" Collapsed="true">
+    <Position X="5.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MeatChef.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1.SaladChef" Collapsed="true">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SaladChef.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1.SauceChef" Collapsed="true">
+    <Position X="9" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SauceChef.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1.SoupChef" Collapsed="true">
+    <Position X="7.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SoupChef.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="DishType" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAACAAQAAAAAAAAAAAAAAgAAAIAA=</HashCode>
+      <FileName>Dish.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

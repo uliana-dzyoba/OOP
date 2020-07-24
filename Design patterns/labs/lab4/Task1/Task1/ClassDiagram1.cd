@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task1.Available" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAI=</HashCode>
+      <FileName>Available.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="server" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.221" Collapsed="true" />
+  </Class>
+  <Class Name="Task1.Server">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAQAAQCAAAAgAgAAAAAABAAAAAAACAAAAABAAAAEA=</HashCode>
+      <FileName>Server.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Available" />
+      <Field Name="UnAvailable" />
+      <Field Name="State" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Task1.UnAvailable" BaseTypeListCollapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAI=</HashCode>
+      <FileName>UnAvailable.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="server" />
+    </ShowAsAssociation>
+    <Lollipop Position="1.169" Collapsed="true" />
+  </Class>
+  <Class Name="Task1.User">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Task1.IServerState">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>IServerState.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

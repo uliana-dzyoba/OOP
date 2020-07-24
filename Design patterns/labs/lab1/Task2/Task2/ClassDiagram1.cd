@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task2.Composite">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAAAAAAAAgAAAAAABQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Composite.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_children" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Task2.Program" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task2.SchoolComponent">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAgAAAAAABQAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SchoolComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task2.Worker">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAgAgAAAAAABQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Worker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

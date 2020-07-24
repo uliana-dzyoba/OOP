@@ -1,0 +1,7 @@
+C:\Users\Наталья\Documents\Visual Studio 2017\Projects\OOP\labs2\lab3\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\Наталья\Documents\Visual Studio 2017\Projects\OOP\labs2\lab3\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\Наталья\Documents\Visual Studio 2017\Projects\OOP\labs2\lab3\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\Наталья\Documents\Visual Studio 2017\Projects\OOP\labs2\lab3\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\Наталья\Documents\Visual Studio 2017\Projects\OOP\labs2\lab3\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Наталья\Documents\Visual Studio 2017\Projects\OOP\labs2\lab3\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\Наталья\Documents\Visual Studio 2017\Projects\OOP\labs2\lab3\Task1\Task1\obj\Debug\Task1.pdb

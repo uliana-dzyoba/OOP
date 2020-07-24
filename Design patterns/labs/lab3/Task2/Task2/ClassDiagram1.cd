@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task2.AppleJuice" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppleJuice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task2.GrapeJuice" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAACAAAAAAAAAAAA=</HashCode>
+      <FileName>GrapeJuice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task2.JaffaAppleJuice" Collapsed="true">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JaffaAppleJuice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task2.JaffaFactory" Collapsed="true">
+    <Position X="3.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAQAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>JaffaFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task2.JaffaGrapeJuice" Collapsed="true">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JaffaGrapeJuice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task2.JaffaOrangeJuice" Collapsed="true">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JaffaOrangeJuice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task2.Juice" Collapsed="true">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAAAAAAABAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Juice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task2.JuiceFactory" Collapsed="true">
+    <Position X="4.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAQAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>JuiceFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task2.OrangeJuice" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>OrangeJuice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task2.RichAppleJuice" Collapsed="true">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RichAppleJuice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task2.RichFactory" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAQAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>RichFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task2.RichGrapeJuice" Collapsed="true">
+    <Position X="11" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RichGrapeJuice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task2.RichOrangeJuice" Collapsed="true">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RichOrangeJuice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task2.Shop">
+    <Position X="8.25" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAgAggAAAAAAAAAAgAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shop.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="factory" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
