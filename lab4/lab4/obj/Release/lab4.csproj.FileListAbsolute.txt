@@ -1,7 +1,0 @@
-C:\Users\Наталья\Documents\Visual Studio 2017\Projects\OOP\labs\lab_4\lab4\lab4\bin\Release\lab4.exe.config
-C:\Users\Наталья\Documents\Visual Studio 2017\Projects\OOP\labs\lab_4\lab4\lab4\bin\Release\lab4.exe
-C:\Users\Наталья\Documents\Visual Studio 2017\Projects\OOP\labs\lab_4\lab4\lab4\bin\Release\lab4.pdb
-C:\Users\Наталья\Documents\Visual Studio 2017\Projects\OOP\labs\lab_4\lab4\lab4\obj\Release\lab4.csproj.CoreCompileInputs.cache
-C:\Users\Наталья\Documents\Visual Studio 2017\Projects\OOP\labs\lab_4\lab4\lab4\obj\Release\lab4.exe
-C:\Users\Наталья\Documents\Visual Studio 2017\Projects\OOP\labs\lab_4\lab4\lab4\obj\Release\lab4.pdb
-C:\Users\Наталья\Documents\Visual Studio 2017\Projects\OOP\labs\lab_4\lab4\lab4\obj\Release\lab4.csprojAssemblyReference.cache
