@@ -1,0 +1,4 @@
+<h3>1. Prototype and Singleton</h3>
+All users on the same computer have the same Internet connection. This connection retains one of the characteristics of each user. Use the design template to create new computer users by cloning a base instance of the user profile, leaving the Internet connection a single object, with no copies.
+<h3>2. Abstract Factory</h3>
+Use the pattern "Abstract Factory" to organize the production of juice packages from different fruits and berries by several plants. The plants differ in the types of raw materials, packaging and product prices. Depending on the season, customers order juice from different factories.

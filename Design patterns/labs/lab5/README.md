@@ -1,0 +1,4 @@
+<h3>1. Chain of responsibility</h3>
+When an order arrives for the restaurant's kitchen, it is successively processed by several chefs. For example, one chef takes responsibility for the salad and passes the order to the next chef, who may be responsible for cooking the meat, and so on. Thus, the order bypasses all cooks who choose from it that part of dishes which lies in a zone of their responsibility. With the help of a design pattern implement the mechanism of order processing by the chefs of the restaurant.
+<h3>2. Command</h3>
+Remote software with a specific information system allows you to log in to another client of the system and, entering the required password, give commands to another client running on another machine. Use the design pattern to implement the mechanism of sending commands to another client (It is not necessary to create a network version of the program. It is enough to simulate the work of two clients at once).

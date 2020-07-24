@@ -1,0 +1,4 @@
+<h3>1. State</h3>
+Use the design pattern to switch the operating modes of the server to which different users can connect via the network. If the allowed number of connections is exceeded, the server stops providing access to its resources and notifies all users who try to connect to it. If you can connect to it, the server accepts the connection request.
+<h3>2. Strategy</h3>
+With the help of a design pattern implement several sets of sports for people with different physical abilities: increased complexity, normal, lightweight. Depending on a person's physical fitness, prescribe a set of exercises that he will perform during the morning workout.
