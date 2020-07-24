@@ -1,4 +1,4 @@
-1. Decorator
+1. <h3>Decorator</h3>
 At a dog show, all participants have such common characteristics as height, weight, age, breed, name of the owner. However, some dog breeds may have additional required characteristics: for example, cropped tail and ears, additional vaccinations, etc. In addition, there are also different functions that are natural for dogs: some are hunting, others - fighting. Therefore, in addition to general commands, they must be able to perform those that are unique to their breed. Create a base class "Dog" and several classes that characterize certain breeds. Demonstrate software implementation of these classes.
-2. Composite
+2. <h3>Composite</h3>
 Using the design pattern to implement the mechanism of issuing salaries in the school. First, the money goes to the account of the institution, then to the accounts of departments, then to a specific employee. Accordingly, each unit has a statement containing a list of its employees and the amount of their salaries.
